@@ -5,8 +5,7 @@
 ### Transformación Digital & Ciencia de Datos 💡
 *Optimización de procesos y toma de decisiones basada en datos con Python, SQL, y Power BI*
 
-![Professional_Data_Scientist_Profile_1584x396_4K](https://github.com/user-attachments/assets/3c904a34-6dfc-4e65-8993-0c217119faee)
-
+![Professional_Data_Scientist_Profile_Adjusted_1584x396_4K](https://github.com/user-attachments/assets/6721d262-0c7b-40f4-90ce-bea79f1acdc9)
 
 </div>
 
